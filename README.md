@@ -23,5 +23,5 @@ python remove_bg.py
 This is an output produced by the script:
 ![](examples/example.png)
 
-##References
+## References
 The FCN-ResNet is loaded from [torchvision.models.segmentation](https://github.com/pytorch/vision/tree/master/torchvision/models/segmentation) and it is a [Fully Convolutional Network](https://arxiv.org/abs/1605.06211) as proposed by Evan Shelhamer et.al and has the ResNet-101 model as backbone.
